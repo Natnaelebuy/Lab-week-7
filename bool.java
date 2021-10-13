@@ -12,7 +12,7 @@ public class bool{
         System.out.println("Is over 65 years old  = " + Isover65yearsold );
      
         // Using java.lang.Boolean:
-    Boolean Hasamedicalcondition = true;
+    Boolean Hasamedicalcondition = false;
     if(Hasamedicalcondition .toString().equals("false"))
       System.out.println("Has a medical condition = " + Hasamedicalcondition );
 
